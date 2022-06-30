@@ -1,7 +1,10 @@
 # Componentizando a aplicação - Desafio 02 &middot; ![language](https://img.shields.io/github/languages/top/yuriqpaiva/componentizando-app-desafio-02?color=blueviolet) ![license](https://img.shields.io/github/license/yuriqpaiva/componentizando-app-desafio-02?color=red)
 <br />
 
-![image](/public/images/app.png)
+<div align="center">
+  <img align="center" src="./public/images/app.png" />
+</div>
+
 
 <br />
 
