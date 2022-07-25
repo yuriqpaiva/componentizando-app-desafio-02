@@ -1,4 +1,4 @@
-# Componentizando a aplicação - Desafio 02 &middot; ![language](https://img.shields.io/github/languages/top/yuriqpaiva/componentizando-app-desafio-02?color=blueviolet) ![license](https://img.shields.io/github/license/yuriqpaiva/componentizando-app-desafio-02?color=red)
+# WatchMe &middot; ![language](https://img.shields.io/github/languages/top/yuriqpaiva/componentizando-app-desafio-02?color=blueviolet) ![license](https://img.shields.io/github/license/yuriqpaiva/componentizando-app-desafio-02?color=red)
 <br />
 
 <div align="center">
